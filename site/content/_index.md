@@ -10,21 +10,9 @@ blurb:
     health consultations.
 intro:
   heading: What I offer
-  text: >-
+  text: >
     Panchakarma Therapies: Vasti (medicated enema), Virechana (therapeutic
     purgation), Nasya, Abhyanga, Shirodhara
-
-
-    Ayurvedic Detox & Rejuvenation
-
-
-    Women’s Health & Hormonal Balance
-
-
-    Lifestyle & Diet Counseling
-
-
-    Stress & Anxiety Management
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
