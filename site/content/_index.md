@@ -1,13 +1,44 @@
 ---
 title: Dr Swekriti | Ayurveda Doctor from Nepal
-subtitle: "Ayurveda Lifestyle "
+subtitle: Holistic Healing. Timeless Wisdom.
 image: img/about-shade-grown.jpg
 blurb:
   heading: Why Ayurveda?
   text: Ayurveda is an ancient healing science practiced since ages.
 intro:
   heading: What we offer
-  text: Ayurveda Lifestyle and Disease Consultation
+  text: >-
+    Dr. Swikriti Lamichhane, a certified Ayurvedic doctor based in Kathmandu,
+    Nepal, specializes in promoting wellness through traditional Ayurvedic
+    practices, including Panchakarma therapy, detox programs, and personalized
+    health consultations.
+
+
+    With a deep-rooted belief in the healing power of nature and ancient wisdom, Dr. Swikriti guides her patients on a transformative journey toward balance—body, mind, and spirit.
+
+
+    Whether you’re looking to restore digestive health, detoxify your body, manage stress, or simply embrace a healthier lifestyle, you're in expert hands.
+
+
+    🔸 Specialized in:
+
+
+    Panchakarma Therapies: Vasti (medicated enema), Virechana (therapeutic purgation), Nasya, Abhyanga, Shirodhara
+
+
+    Ayurvedic Detox & Rejuvenation
+
+
+    Women’s Health & Hormonal Balance
+
+
+    Lifestyle & Diet Counseling
+
+
+    Stress & Anxiety Management
+
+
+    Your wellness journey begins here.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
