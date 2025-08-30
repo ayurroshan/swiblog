@@ -27,8 +27,16 @@ products:
       fall in love with in our shop.
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >-
+    Rooted in Nature. Guided by Wisdom. Committed to You.
+
+    🌿 Authenticity – We strictly adhere to classical Ayurvedic texts and time-tested practices.
+
+    🌿 Compassionate Care – Dr. Swikriti offers individualized attention, especially focusing on women’s health and mental well-being.
+
+    🌿 Sustainability – We support eco-conscious choices and ethically sourced herbs and ingredients.
+
+    🌿 Empowerment – Educating you to understand your body’s signals and rhythms.
+
+    Your healing is our purpose.
 ---
